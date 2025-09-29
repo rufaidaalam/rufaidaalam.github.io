@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rufaida Alam | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f9fafc;
+      color: #333;
+    }
+    header {
+      background: #4a90e2;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2rem;
+    }
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.1rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    h2 {
+      color: #4a90e2;
+      margin-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background: #fff;
+      margin: 0.5rem 0;
+      padding: 0.75rem 1rem;
+      border-radius: 6px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    footer {
+      text-align: center;
+      background: #eee;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
+    a {
+      color: #4a90e2;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Rufaida Alam</h1>
+    <p>CSE Student | Aspiring Developer | Problem Solver</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I’m <strong>Rufaida Alam</strong>, passionate about coding, problem-solving, and building impactful projects.</p>
+    <ul>
+      <li>💻 Skilled in: Java, Python, OOP, SQL</li>
+      <li>🎯 Interests: Software Development, Data Science, Cloud Support</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://github.com/rufaidaalam/project1" target="_blank">Project 1</a> – Short description</li>
+      <li><a href="https://github.com/rufaidaalam/project2" target="_blank">Project 2</a> – Short description</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>📧 <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p>🔗 <a href="https://github.com/rufaidaalam" target="_blank">github.com/rufaidaalam</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Rufaida Alam. Built with ❤️ using HTML & CSS.</p>
+  </footer>
+
+</body>
+</html>
